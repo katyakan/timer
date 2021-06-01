@@ -1,5 +1,4 @@
-// countdown.js
-// Таймер-счётчик ⏳
+
 
 function startCountdown(seconds) {
   let remaining = seconds;
